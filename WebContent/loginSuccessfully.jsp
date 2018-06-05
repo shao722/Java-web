@@ -33,7 +33,7 @@ body {
 			type="button" value="修改密码"
 			onclick="javascrtpt:window.location.href='changePassword.html'">
 		<input
-			style='height: 40px; width: 100px; background: none; border-radius: 10px; border-color: #FF33CC; outline: none; color: #C0FF3E;'
+			style='height: 40px; width: 100px; background: none; border-radius: 10px; border-color: #FF33CC; outline: none; color: #FF34B3;'
 			type="button" value="注销登陆"
 			onclick="javascrtpt:window.location.href='logout.jsp'">
 	</div>
